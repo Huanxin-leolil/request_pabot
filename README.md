@@ -10,7 +10,7 @@ pip install -U robotframework-pabot
 ## Usage
 ```
 $ cd C:\Users\leo\git\request_pabot
-$ pabot.bat --pabotlib --processes 2 request_pabot
+$ pabot.bat --pabotlib --processes 2 C:\Users\leo\git\request_pabot
 ```
 
 
